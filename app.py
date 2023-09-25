@@ -7,9 +7,16 @@ posts = requests.get("https://api.npoint.io/dd8463a897d2f65407d7").json()
 app = Flask(__name__)
 
 
+# @app.route('/')
+# def get_all_posts():
+#     return render_template("home.html", all_posts=posts)
+
+
 @app.route('/')
-def get_all_posts():
-    return render_template("index.html", all_posts=posts)
+@app.route('/home')
+def home():
+    return render_template("home.html", all_posts=posts)
+
 
 
 @app.route("/about")
@@ -21,5 +28,5 @@ def about():
 def contact():
     return render_template("contact.html")
 #
-# if __name__ == "__main__":
-#     app.run(debug=True)
+if __name__ == "__main__":
+    app.run(debug=True)
