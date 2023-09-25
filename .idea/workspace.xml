@@ -1,33 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="81de9d3d-bf0c-4c49-be85-1243093cfd70" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.ebextensions.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Long_Men_Blog.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/startbootstrap-clean-blog-gh-pages.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/startbootstrap-clean-blog-gh-pages/app.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/startbootstrap-clean-blog-gh-pages/day-70-starting-files-blog-for-deployment.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/startbootstrap-clean-blog-gh-pages/static/assets/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/startbootstrap-clean-blog-gh-pages/static/assets/img/about-bg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/startbootstrap-clean-blog-gh-pages/static/assets/img/contact-bg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/startbootstrap-clean-blog-gh-pages/static/assets/img/home-bg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/startbootstrap-clean-blog-gh-pages/static/assets/img/post-bg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/startbootstrap-clean-blog-gh-pages/static/assets/img/post-sample-image.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/startbootstrap-clean-blog-gh-pages/static/css/styles.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/startbootstrap-clean-blog-gh-pages/static/js/scripts.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/startbootstrap-clean-blog-gh-pages/templates/about.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/startbootstrap-clean-blog-gh-pages/templates/contact.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/startbootstrap-clean-blog-gh-pages/templates/footer.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/startbootstrap-clean-blog-gh-pages/templates/header.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/startbootstrap-clean-blog-gh-pages/templates/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/startbootstrap-clean-blog-gh-pages/templates/post.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv.zip" beforeDir="false" />
+    <list default="true" id="81de9d3d-bf0c-4c49-be85-1243093cfd70" name="Changes" comment="update">
+      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +11,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectId" id="2Vtfeg4b6nvBoZvflWfJHDgAm5l" />
   <component name="ProjectViewState">
@@ -84,6 +60,43 @@
       <option name="presentableId" value="Default" />
       <updated>1695660395815</updated>
     </task>
+    <task id="LOCAL-00001" summary="update">
+      <created>1695660504991</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1695660504991</updated>
+    </task>
+    <task id="LOCAL-00002" summary="update">
+      <created>1695660557491</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1695660557491</updated>
+    </task>
+    <task id="LOCAL-00003" summary="update">
+      <created>1695660584984</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1695660584984</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
 </project>
